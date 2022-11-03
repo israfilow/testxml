@@ -19,7 +19,7 @@ SYSTEM "shops.dtd">
    <category id="22816" parentId="23713">Автомобильные держатели для смартфонов</category>
    <category id="22788" parentId="23713">Карты памяти</category>
    <category id="124" parentId="23713">Моноподы для селфи</category>
-   <category id="22811" parentId="23713">Гарнитуры bluetooth</category>
+   <category id="22819" parentId="23713">Гарнитуры bluetooth</category>
    </categories>
   <offers>
    <offer id="11416" available="true">
