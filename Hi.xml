@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog
+SYSTEM "shops.dtd">
+<yml_catalog date="2022-11-02 17:30">
+ <shop>
+  <name>www.example.ru</name>
+  <company>www.example.ru</company>
+  <url>http://www.example.ru</url>
+  <currencies>
+   <currency id="RUR" rate="1"/>
+  </currencies>
+  <categories>
+   <category id="22237">Смартфоны и гаджеты</category>
+   <category id="21695" parentId="22957">Cмартфоны</category>
+   <category id="23712" parentId="22957">Мобильные телефоны</category>
+   <category id="23713" parentId="22957">Аксессуары для сотовых</category>
+   <category id="22811" parentId="23713">Чехлы для телефонов</category>
+   <category id="22812" parentId="23713">Защитные стекла и пленки для телефонов</category>
+   <category id="22816" parentId="23713">Автомобильные держатели для смартфонов</category>
+   <category id="22788" parentId="23713">Карты памяти</category>
+   <category id="124" parentId="23713">Моноподы для селфи</category>
+   <category id="22811" parentId="23713">Гарнитуры bluetooth</category>
+   </categories>
+  <offers>
+   <offer id="11416" available="true">
+    <url>http://www.example.ru/goods/11416/vlajnie_salfetki_defender_30102_100_sht/</url>
+    <price>165</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>22727</categoryId>
+    <picture>http://fast.example.ru/l_pics/11416.png</picture>
+    <param name="price66">165.00</param>
+    <cpa>0</cpa>
+    <name>Влажные салфетки 100 шт</name>
+    <vendor>Defender</vendor>
+    <vendorCode>30102</vendorCode>
+   </offer>
+   <offer id="15461" available="true">
+    <url>http://www.example.ru/goods/15461/canon_bci_3ec/</url>
+    <price>290</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>22720</categoryId>
+    <picture>http://example.ru/l_pics/15461.jpg</picture>
+    <param name="price66">290.00</param>
+    <cpa>0</cpa>
+    <name>Картридж Canon BCI-3eC голубой</name>
+    <vendor>Canon</vendor>
+    <vendorCode>BCI-3eC</vendorCode>
+   </offer>
+  </offers>
+ </shop>
+</yml_catalog>
